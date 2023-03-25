@@ -1,0 +1,8 @@
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Arrays\bin\Debug\Arrays.exe.config
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Arrays\bin\Debug\Arrays.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Arrays\bin\Debug\Arrays.pdb
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Arrays\obj\Debug\Arrays.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Arrays\obj\Debug\Arrays.pdb
