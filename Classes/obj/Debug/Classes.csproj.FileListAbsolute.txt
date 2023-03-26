@@ -1,0 +1,8 @@
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Classes\bin\Debug\Classes.exe.config
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Classes\bin\Debug\Classes.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Classes\bin\Debug\Classes.pdb
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Classes\obj\Debug\Classes.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Classes\obj\Debug\Classes.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Classes\obj\Debug\Classes.pdb
