@@ -1,0 +1,8 @@
+D:\Yazilim\C#\CSharpCourse\FirstSolution\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+D:\Yazilim\C#\CSharpCourse\FirstSolution\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+D:\Yazilim\C#\CSharpCourse\FirstSolution\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\InterfacesDemo\obj\Debug\InterfacesDemo.pdb

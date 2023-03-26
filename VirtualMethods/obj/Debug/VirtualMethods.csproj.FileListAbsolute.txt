@@ -1,0 +1,8 @@
+D:\Yazilim\C#\CSharpCourse\FirstSolution\VirtualMethods\bin\Debug\VirtualMethods.exe.config
+D:\Yazilim\C#\CSharpCourse\FirstSolution\VirtualMethods\bin\Debug\VirtualMethods.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\VirtualMethods\bin\Debug\VirtualMethods.pdb
+D:\Yazilim\C#\CSharpCourse\FirstSolution\VirtualMethods\obj\Debug\VirtualMethods.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\VirtualMethods\obj\Debug\VirtualMethods.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\VirtualMethods\obj\Debug\VirtualMethods.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\VirtualMethods\obj\Debug\VirtualMethods.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\VirtualMethods\obj\Debug\VirtualMethods.pdb
