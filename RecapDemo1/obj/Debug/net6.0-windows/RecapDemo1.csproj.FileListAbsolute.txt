@@ -1,0 +1,17 @@
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo1\bin\Debug\net6.0-windows\RecapDemo1.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo1\bin\Debug\net6.0-windows\RecapDemo1.deps.json
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo1\bin\Debug\net6.0-windows\RecapDemo1.runtimeconfig.json
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo1\bin\Debug\net6.0-windows\RecapDemo1.dll
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo1\bin\Debug\net6.0-windows\RecapDemo1.pdb
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo1\obj\Debug\net6.0-windows\RecapDemo1.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo1\obj\Debug\net6.0-windows\RecapDemo1.Form1.resources
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo1\obj\Debug\net6.0-windows\RecapDemo1.csproj.GenerateResource.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo1\obj\Debug\net6.0-windows\RecapDemo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo1\obj\Debug\net6.0-windows\RecapDemo1.AssemblyInfoInputs.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo1\obj\Debug\net6.0-windows\RecapDemo1.AssemblyInfo.cs
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo1\obj\Debug\net6.0-windows\RecapDemo1.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo1\obj\Debug\net6.0-windows\RecapDemo1.dll
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo1\obj\Debug\net6.0-windows\refint\RecapDemo1.dll
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo1\obj\Debug\net6.0-windows\RecapDemo1.pdb
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo1\obj\Debug\net6.0-windows\RecapDemo1.genruntimeconfig.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo1\obj\Debug\net6.0-windows\ref\RecapDemo1.dll
