@@ -1,0 +1,8 @@
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo2\bin\Debug\RecapDemo2.exe.config
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo2\bin\Debug\RecapDemo2.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo2\bin\Debug\RecapDemo2.pdb
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo2\obj\Debug\RecapDemo2.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo2\obj\Debug\RecapDemo2.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo2\obj\Debug\RecapDemo2.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo2\obj\Debug\RecapDemo2.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\RecapDemo2\obj\Debug\RecapDemo2.pdb
