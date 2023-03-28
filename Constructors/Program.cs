@@ -23,6 +23,9 @@ namespace Constructors
             personManager.Add();
 
             Teacher.Number = 25;
+            Manager.DoSomething();
+            Manager manager = new Manager();
+            manager.DoSomething2();
 
             Console.ReadLine();
         }
@@ -124,6 +127,10 @@ namespace Constructors
     }
     static class Utilities
     {
+        static Utilities()
+        {
+            
+        }
         public static void Validate()
         {
             Console.WriteLine("Validation is done");
@@ -131,7 +138,7 @@ namespace Constructors
     }
     class Manager
     {
-        public static DoSomething()
+        public static void DoSomething()
         {
             Console.WriteLine("Done");
         }

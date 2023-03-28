@@ -1,0 +1,8 @@
+D:\Yazilim\C#\CSharpCourse\FirstSolution\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.exe.config
+D:\Yazilim\C#\CSharpCourse\FirstSolution\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.pdb
+D:\Yazilim\C#\CSharpCourse\FirstSolution\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.pdb
