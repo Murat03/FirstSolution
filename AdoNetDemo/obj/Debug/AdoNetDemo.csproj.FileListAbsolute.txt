@@ -1,0 +1,11 @@
+D:\Yazilim\C#\CSharpCourse\FirstSolution\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\AdoNetDemo\obj\Debug\AdoNetDemo.Form1.resources
+D:\Yazilim\C#\CSharpCourse\FirstSolution\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+D:\Yazilim\C#\CSharpCourse\FirstSolution\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+D:\Yazilim\C#\CSharpCourse\FirstSolution\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+D:\Yazilim\C#\CSharpCourse\FirstSolution\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\AdoNetDemo\obj\Debug\AdoNetDemo.pdb

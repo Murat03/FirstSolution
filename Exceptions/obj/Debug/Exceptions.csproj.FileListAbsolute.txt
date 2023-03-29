@@ -1,0 +1,8 @@
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Exceptions\bin\Debug\Exceptions.exe.config
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Exceptions\bin\Debug\Exceptions.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Exceptions\bin\Debug\Exceptions.pdb
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Exceptions\obj\Debug\Exceptions.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Exceptions\obj\Debug\Exceptions.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Exceptions\obj\Debug\Exceptions.pdb
