@@ -65,5 +65,10 @@ namespace AdoNetDemo
             _productDal.Delete(Convert.ToInt32(dgwProducts.CurrentRow.Cells[0].Value));
             LoadProducts();
         }
+
+        private void dgwProducts_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

@@ -1,0 +1,16 @@
+D:\Yazilim\C#\CSharpCourse\FirstSolution\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+D:\Yazilim\C#\CSharpCourse\FirstSolution\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+D:\Yazilim\C#\CSharpCourse\FirstSolution\EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+D:\Yazilim\C#\CSharpCourse\FirstSolution\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Yazilim\C#\CSharpCourse\FirstSolution\EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+D:\Yazilim\C#\CSharpCourse\FirstSolution\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Yazilim\C#\CSharpCourse\FirstSolution\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Form1.resources
+D:\Yazilim\C#\CSharpCourse\FirstSolution\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Properties.Resources.resources
+D:\Yazilim\C#\CSharpCourse\FirstSolution\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.GenerateResource.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CopyComplete
+D:\Yazilim\C#\CSharpCourse\FirstSolution\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb
