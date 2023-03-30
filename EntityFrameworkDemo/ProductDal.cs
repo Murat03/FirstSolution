@@ -16,6 +16,28 @@ namespace EntityFrameworkDemo
                 return context.Products.ToList();
             }
         }
+        public List<Product> GetByName(string key)
+        {
+            using (ETradeContext context = new ETradeContext())
+            {
+                return context.Products.Where(p=>p.Name.Contains(key)).ToList();
+            }
+        }
+        public List<Product> GetByUnitPrice(decimal minPrice, decimal maxPrice)
+        {
+            using (ETradeContext context = new ETradeContext())
+            {
+                return context.Products.Where(p => p.UnitPrice >= minPrice && p.UnitPrice <= maxPrice).ToList();
+            }
+        }
+        public Product GetById(int id)
+        {
+            using (ETradeContext context = new ETradeContext())
+            {
+                var result = context.Products.FirstOrDefault(p => p.Id == id);
+                return result;
+            }
+        }
         public void Add(Product product)
         {
             using (ETradeContext context = new ETradeContext())
