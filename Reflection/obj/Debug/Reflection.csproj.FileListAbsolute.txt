@@ -1,0 +1,8 @@
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Reflection\bin\Debug\Reflection.exe.config
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Reflection\bin\Debug\Reflection.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Reflection\bin\Debug\Reflection.pdb
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Reflection\obj\Debug\Reflection.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Reflection\obj\Debug\Reflection.exe
+D:\Yazilim\C#\CSharpCourse\FirstSolution\Reflection\obj\Debug\Reflection.pdb
